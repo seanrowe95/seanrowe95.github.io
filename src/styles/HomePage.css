@@ -1,0 +1,14 @@
+.intro-container {
+  display: flex;
+  width: 100%;
+}
+
+.intro-flex-item {
+  align-items: center;
+  width: 50%;
+  flex-shrink: 0;
+}
+
+.headshot {
+  width: 300px;
+}
